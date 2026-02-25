@@ -44,6 +44,6 @@
   "start_url": "https://invos.app/splash",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "theme_color": "#f8f9fa",
-  "background_color": "#f8f9fa"
+  "theme_color": "#3a5fa5",
+  "background_color": "#3a5fa5"
 }
